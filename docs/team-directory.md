@@ -8,7 +8,7 @@
 * **Slack:** @alexchen
 * **GitHub:** @alexchen-nt
 * **Started:** 2022
-* **Fun fact:** Once debugged a production outage at 3AM using only a phone terminal.
+* **Fun fact:** Mentors every new hire personally during their first week.
 
 ### Kaycee — Junior Cloud Engineer
 
