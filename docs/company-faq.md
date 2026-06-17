@@ -11,7 +11,7 @@ A: Core hours are 10am - 4pm WAT. Outside of that, work when you're most product
 **Q: Who do I ask if I'm stuck?**
 A: Your team lead (Alex) first. If Alex is unavailable, post in #engineering-help on Slack.
 
-## Git & GitHub
+## Git \& GitHub
 
 **Q: Should I commit directly to main?**
 A: Never. Always create a feature branch and open a pull request.
@@ -29,3 +29,20 @@ A: Most of the team uses VS Code, but use whatever you're comfortable with.
 
 **Q: Do I need a Linux machine?**
 A: Not required for onboarding, but you'll need SSH access to servers later. We'll set that up in your second week.
+
+
+
+\## Onboarding
+
+
+
+\*\*Q: How long is the onboarding period?\*\*
+
+A: Your first week focuses on setting up your environment, learning the Git workflow, and building your first contribution. By Week 2, you'll be working on real infrastructure tasks.
+
+
+
+\*\*Q: Where do I find the onboarding portal?\*\*
+
+A: You're looking at it. This repo is the portal. Start with the README, then work through the Setup Guide.
+
